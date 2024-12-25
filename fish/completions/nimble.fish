@@ -1,0 +1,12 @@
+
+complete -c nimble -xn __fish_use_subcommand -a build -d "Project Build"
+complete -c nimble -fn __fish_use_subcommand -a init -d "Create New project"
+complete -c nimble -xn __fish_use_subcommand -a install -d "Install plugins"
+complete -c nimble -xn __fish_use_subcommand -a uninstall -d "Uninstall plugins"
+complete -c nimble -fn __fish_use_subcommand -a list -d "パッケージリスト取得"
+complete -c nimble -xn __fish_use_subcommand -a path -d "Show Installed Package path"
+complete -c nimble -xn __fish_use_subcommand -a refresh -d "Refresh Packages"
+complete -c nimble -fn __fish_use_subcommand -a search -d "Search Packages"
+complete -c nimble -xn __fish_use_subcommand -a task -d "Show Tasks from .nimble"
+complete -c nimble -xn __fish_use_subcommand -a test -d "Execute Test"
+complete -c nimble -xn __fish_use_subcommand -a update -d "パッケージリスト更新"

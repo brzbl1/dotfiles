@@ -1,0 +1,8 @@
+113:/home/brzbl/VirtualBox VMs
+19:/home/brzbl
+9:/home/brzbl/Apps
+20:/home/brzbl/Downloads
+16:/home/brzbl/Documents
+15:/home/brzbl/.config
+5:/home/brzbl/.local/share
+5:/
